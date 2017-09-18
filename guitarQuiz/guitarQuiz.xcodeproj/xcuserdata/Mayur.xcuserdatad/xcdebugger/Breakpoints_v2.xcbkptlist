@@ -10,12 +10,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "guitarQuiz/ViewController.swift"
-            timestampString = "526760866.076177"
+            timestampString = "526503053.822575"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
-            landmarkName = "NextButton(_:)"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "handlePan(sender:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
